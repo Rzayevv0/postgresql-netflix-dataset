@@ -2,7 +2,8 @@
 # Netflix SQL Practice Project 🎬
 
 This project is a hands-on SQL practice exercise using the **Netflix Movies and TV Shows Dataset** from Kaggle.  
-🔗 [View dataset on Kaggle]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data))
+🔗 [View dataset on Kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data)
+
 
 It includes various SQL queries written to extract insights from the data using filtering, aggregation, window functions, and other core SQL techniques.
 
