@@ -12,7 +12,7 @@ It includes various SQL queries written to extract insights from the data using 
 ## 📁 Project Structure
 
 ```
-netflix-sql-project/
+postgresql-netflix-dataset/
 │
 ├── data/
 │   ├── credits.csv
